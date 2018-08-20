@@ -1,0 +1,22 @@
+{
+    "name": "freezing-moon-theme",
+    "displayName": "Freezing Moon Theme",
+    "description": "Easy to read theme woth soft color palette",
+    "version": "0.0.1",
+    "publisher": "EugeneNor",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Freezing Moon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Freezing Moon-color-theme.json"
+            }
+        ]
+    }
+}
