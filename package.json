@@ -15,7 +15,7 @@
             {
                 "label": "Freezing Moon",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Freezing Moon-color-theme.json"
+                "path": "./themes/freezing-moon-color-theme.json"
             }
         ]
     }
