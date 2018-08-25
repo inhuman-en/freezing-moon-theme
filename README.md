@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "freezing-moon-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h2 align="center">Freezing Moon Theme</h2>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=20 height=20/> <a href="https://github.com/inhuman-en/freezing-moon-theme/releases/latest"><img src="https://img.shields.io/github/release/inhuman-en/freezing-moon-theme.svg?style=flat-square"/></a> <img src="https://marketplace.visualstudio.com/favicon.ico" width=20 height=20/> <a href="https://code.visualstudio.com/updates/v1_26"><img src="https://img.shields.io/badge/VS_Code-v1.26+-373277.svg?style=flat-square"/></a> </p>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="center">Calm and clear dark code syntax theme for <a href="https://code.visualstudio.com">Visual Studio Code</a></p>
 
-**Enjoy!**
+<p align="center">Based on Visual Studio Dark theme</p>
+
+---
+<p align="center"><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/main.png"/><br><blockquote>Icons provided by <a href="https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights">Field Lights Theme</a>  (monochromatic set)</p>

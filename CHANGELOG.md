@@ -1,7 +1,11 @@
-# Change Log
-All notable changes to the "freezing-moon-theme" extension will be documented in this file.
+# 0.1.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+![Release Date: 2018-08-25](https://img.shields.io/badge/Release_Date-2017--08--25-4993b6.svg?style=flat-square)
 
-## [Unreleased]
-- Initial release
+**Initial VS Code Marketplace extension release version!**
+
+# 0.0.0
+
+![Release Date: 2018-08-20](https://img.shields.io/badge/Release_Date-2018--08--20-4993b6.svg?style=flat-square)
+
+**Project Initialization**
