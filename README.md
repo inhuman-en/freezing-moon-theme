@@ -8,3 +8,17 @@
 
 ---
 <p align="center"><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/main.png"/><br><blockquote>Icons provided by <a href="https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights">Field Lights Theme</a>  (monochromatic set)</p>
+
+
+---
+<p align="center">JavaScript<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/javascript.png"/></p>
+
+<p align="center">TypeScript (Angular)<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/typescript.png"/></p>
+
+<p align="center">HTML<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/html.png"/></p>
+
+<p align="center">CSS<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/css.png"/></p>
+
+<p align="center">Java<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/java.png"/></p>
+
+<p align="center">PHP<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/php.png"/></p>

@@ -3,6 +3,7 @@
     "displayName": "Freezing Moon Theme",
     "description": "Calm and clear dark code syntax theme",
     "version": "0.1.1",
+    "icon": "marketplace-icon.png",
     "repository": {
         "url": "https://github.com/inhuman-en/freezing-moon-theme"
     },
