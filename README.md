@@ -7,18 +7,20 @@
 <p align="center">Based on Visual Studio Dark theme</p>
 
 ---
-<p align="center"><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/main.png"/><br><blockquote>Icons provided by <a href="https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights">Field Lights Theme</a>  (monochromatic set)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/main.png"/><br><blockquote>Icons provided by <a href="https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights">Field Lights Theme</a>  (monochromatic set)</blockquote></p>
 
 
 ---
-<p align="center">JavaScript<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/javascript.png"/></p>
 
-<p align="center">TypeScript (Angular)<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/typescript.png"/></p>
+<h3 align="center">Examples</h3>
+<p align="center">JavaScript<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/javascript.png"/></p>
 
-<p align="center">HTML<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/html.png"/></p>
+<p align="center">TypeScript (Angular)<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/typescript.png"/></p>
 
-<p align="center">CSS<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/css.png"/></p>
+<p align="center">HTML<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/html.png"/></p>
 
-<p align="center">Java<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/java.png"/></p>
+<p align="center">CSS<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/css.png"/></p>
 
-<p align="center">PHP<br><img src="https://github.com/inhuman-en/freezing-moon-theme/blob/master/screenshots/php.png"/></p>
+<p align="center">Java<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/java.png"/></p>
+
+<p align="center">PHP<br><img src="https://raw.githubusercontent.com/inhuman-en/freezing-moon-theme/master/screenshots/php.png"/></p>
