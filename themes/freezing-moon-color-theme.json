@@ -280,7 +280,8 @@
         {
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#9cdcfe"
+                "foreground": "#9cdcfe",
+                "fontStyle": "italic"
             }
         },
         {
@@ -607,7 +608,7 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "fontStyle": "bold",
+                "fontStyle": "italic bold",
                 "foreground": "#9fbed1"
             }
         },
@@ -627,7 +628,8 @@
         {
             "scope": "entity.other.attribute-name",
             "settings": {
-                "foreground": "#a7c9de"
+                "foreground": "#a7c9de",
+                "fontStyle": "italic"
             }
         },
         {
